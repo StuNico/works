@@ -1,0 +1,16 @@
+body{
+    padding-top:25px;
+}
+
+th{
+    border:1px solid black;
+}
+
+td{
+    border:1px solid black;
+
+}
+
+#title{
+    border-radius:10px 10px 0px 0px;
+}

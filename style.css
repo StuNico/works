@@ -1,0 +1,27 @@
+body{
+    padding-top:25px;
+}
+
+th{
+    border:1px solid black;
+    border-radius:10px 10px 0px 0px;
+}
+
+td{
+    border:1px solid black;
+}
+
+#dati1{
+    border:1px solid black;
+    border-radius:0px 0px 10px 0px;
+}
+
+#dati2{
+    border:1px solid black;
+    border-radius:0px 0px 0px 10px;
+}
+
+p{
+    font-style:oblique;
+    font-size:15px;
+}
